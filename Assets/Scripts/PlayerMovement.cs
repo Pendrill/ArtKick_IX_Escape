@@ -27,6 +27,9 @@ public class PlayerMovement : MonoBehaviour
     public AudioClip[] audio;
 
     public bool isPlayer1 = true;
+    public GameObject bulletShooterRef;
+
+    bool shootingEnabled = true;
     // Start is called before the first frame update
     void Start()
     {
@@ -144,16 +147,18 @@ public class PlayerMovement : MonoBehaviour
     {
         if(isPlayer1)
         {
-            if (Input.GetKeyDown(KeyCode.E))
+            if (Input.GetKeyDown(KeyCode.E) && shootingEnabled)
             {
+                shootingEnabled = false;
                 audioSource.PlayOneShot(audio[0]);
                 ShootBullet();
             }
         }
         else
         {
-            if (Input.GetKeyDown(KeyCode.RightShift))
+            if (Input.GetKeyDown(KeyCode.RightShift) && shootingEnabled)
             {
+                shootingEnabled = false;
                 audioSource.PlayOneShot(audio[0]);
                 ShootBullet();
             }
@@ -163,12 +168,12 @@ public class PlayerMovement : MonoBehaviour
 
     void ShootBullet()
     {
-        Instantiate(Bullet, FirePoint.transform.position, Quaternion.Euler(transform.rotation.eulerAngles.x , transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z + 90), transform);
+        Instantiate(Bullet, FirePoint.transform.position, Quaternion.Euler(transform.rotation.eulerAngles.x , transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z + 90), bulletShooterRef.transform);
     }
 
     private void OnCollisionEnter(Collision collision)
     {
-        if(collision.collider.tag == "Asteroid" || collision.collider.tag == "Bullet")
+        if(collision.collider.tag == "Asteroid" || collision.collider.tag == "Bullet" || collision.collider.tag == "Player")
         {
             audioSource.PlayOneShot(audio[1]);
             enableMovement = false;
@@ -182,5 +187,10 @@ public class PlayerMovement : MonoBehaviour
     {
         GM.GameOver();
         Destroy(gameObject);
+    }
+
+    public void enableShooting()
+    {
+        shootingEnabled = true;
     }
 }

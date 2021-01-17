@@ -9,13 +9,10 @@ public class bullet : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        foreach( Transform child in transform.parent)
-        {
-            firePoint = child;
-            break;
-        }
+        firePoint = transform.parent.GetComponent<BulletPlayerRef>().shootingRef.transform;
+     
         //firePoint = GameObject.FindGameObjectWithTag("Player").transform;
-        Debug.Log(firePoint);
+
         Shot();
     }
 
@@ -35,6 +32,7 @@ public class bullet : MonoBehaviour
 
     public void DestroyBullet()
     {
+        firePoint.parent.GetComponent<PlayerMovement>().enableShooting();
         Destroy(gameObject);
     }
 
