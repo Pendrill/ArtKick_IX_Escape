@@ -1,0 +1,1468 @@
+fileFormatVersion: 2
+guid: a153dbfe053b042cba5442693ec4cdba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6195716363955204088
+    second: electric_explosion_256x256px_0
+  - first:
+      213: 2736183798603197186
+    second: electric_explosion_256x256px_1
+  - first:
+      213: -8266384817781422270
+    second: electric_explosion_256x256px_2
+  - first:
+      213: -5517212409661280117
+    second: electric_explosion_256x256px_3
+  - first:
+      213: -6636423386058964579
+    second: electric_explosion_256x256px_4
+  - first:
+      213: -9199035745912268016
+    second: electric_explosion_256x256px_5
+  - first:
+      213: -967705709177686237
+    second: electric_explosion_256x256px_6
+  - first:
+      213: -8262116918225729345
+    second: electric_explosion_256x256px_7
+  - first:
+      213: -5660702415977082917
+    second: electric_explosion_256x256px_8
+  - first:
+      213: -3149875988392061872
+    second: electric_explosion_256x256px_9
+  - first:
+      213: 2360032756815587737
+    second: electric_explosion_256x256px_10
+  - first:
+      213: 5482782024460060000
+    second: electric_explosion_256x256px_11
+  - first:
+      213: 4207903578961946123
+    second: electric_explosion_256x256px_12
+  - first:
+      213: 5732903066957692831
+    second: electric_explosion_256x256px_13
+  - first:
+      213: 4669758623067063006
+    second: electric_explosion_256x256px_14
+  - first:
+      213: -1416463839140127067
+    second: electric_explosion_256x256px_15
+  - first:
+      213: -2308396454536490229
+    second: electric_explosion_256x256px_16
+  - first:
+      213: -1998102925412188857
+    second: electric_explosion_256x256px_17
+  - first:
+      213: -5156936184377279239
+    second: electric_explosion_256x256px_18
+  - first:
+      213: -8566844626092736906
+    second: electric_explosion_256x256px_19
+  - first:
+      213: 2070537850221183566
+    second: electric_explosion_256x256px_20
+  - first:
+      213: 6801575743103930532
+    second: electric_explosion_256x256px_21
+  - first:
+      213: -2133447039412371043
+    second: electric_explosion_256x256px_22
+  - first:
+      213: -6514780828854421854
+    second: electric_explosion_256x256px_23
+  - first:
+      213: -3077623103964602529
+    second: electric_explosion_256x256px_24
+  - first:
+      213: 5376867367653001896
+    second: electric_explosion_256x256px_25
+  - first:
+      213: 4696733006235113375
+    second: electric_explosion_256x256px_26
+  - first:
+      213: -3555976418194569656
+    second: electric_explosion_256x256px_27
+  - first:
+      213: 3826515831887244643
+    second: electric_explosion_256x256px_28
+  - first:
+      213: -4257637546805426610
+    second: electric_explosion_256x256px_29
+  - first:
+      213: 1550499935936804097
+    second: electric_explosion_256x256px_30
+  - first:
+      213: 713475113681514177
+    second: electric_explosion_256x256px_31
+  - first:
+      213: -4537774377766009245
+    second: electric_explosion_256x256px_32
+  - first:
+      213: -8139567075622374739
+    second: electric_explosion_256x256px_33
+  - first:
+      213: -3046500494701884440
+    second: electric_explosion_256x256px_34
+  - first:
+      213: 3549385063903422471
+    second: electric_explosion_256x256px_35
+  - first:
+      213: 3380659880962740033
+    second: electric_explosion_256x256px_36
+  - first:
+      213: -459316477749354272
+    second: electric_explosion_256x256px_37
+  - first:
+      213: 204533355593641942
+    second: electric_explosion_256x256px_38
+  - first:
+      213: 2249664769188472924
+    second: electric_explosion_256x256px_39
+  - first:
+      213: -2929923220708330100
+    second: electric_explosion_256x256px_40
+  - first:
+      213: 2761405753244340253
+    second: electric_explosion_256x256px_41
+  - first:
+      213: 6798241928653485143
+    second: electric_explosion_256x256px_42
+  - first:
+      213: -7096296792452573046
+    second: electric_explosion_256x256px_43
+  - first:
+      213: -7237851556429889652
+    second: electric_explosion_256x256px_44
+  - first:
+      213: 1252044825693151602
+    second: electric_explosion_256x256px_45
+  - first:
+      213: -367725003404809655
+    second: electric_explosion_256x256px_46
+  - first:
+      213: -3783027108934850101
+    second: electric_explosion_256x256px_47
+  - first:
+      213: -5998931617434828388
+    second: electric_explosion_256x256px_48
+  - first:
+      213: -4928908209228581623
+    second: electric_explosion_256x256px_49
+  - first:
+      213: -7284890740876581725
+    second: electric_explosion_256x256px_50
+  - first:
+      213: -312011699996786146
+    second: electric_explosion_256x256px_51
+  - first:
+      213: -765524395566137001
+    second: electric_explosion_256x256px_52
+  - first:
+      213: 922665420369826143
+    second: electric_explosion_256x256px_53
+  - first:
+      213: -8992831250087723680
+    second: electric_explosion_256x256px_54
+  - first:
+      213: -7746032085218589375
+    second: electric_explosion_256x256px_55
+  - first:
+      213: -8535557732116936687
+    second: electric_explosion_256x256px_56
+  - first:
+      213: -1672746199690334679
+    second: electric_explosion_256x256px_57
+  - first:
+      213: 7669032181416281912
+    second: electric_explosion_256x256px_58
+  - first:
+      213: -476446514900961504
+    second: electric_explosion_256x256px_59
+  - first:
+      213: 6872113819169341943
+    second: electric_explosion_256x256px_60
+  - first:
+      213: -7424705074715163505
+    second: electric_explosion_256x256px_61
+  - first:
+      213: -5235324041814309771
+    second: electric_explosion_256x256px_62
+  - first:
+      213: -823524102116160555
+    second: electric_explosion_256x256px_63
+  - first:
+      213: -3241580630374122169
+    second: electric_explosion_256x256px_64
+  - first:
+      213: -4006375771761281292
+    second: electric_explosion_256x256px_65
+  - first:
+      213: 5014228901161551121
+    second: electric_explosion_256x256px_66
+  - first:
+      213: 5584002018754051493
+    second: electric_explosion_256x256px_0
+  - first:
+      213: -649676167401374136
+    second: electric_explosion_256x256px_1
+  - first:
+      213: 4999548794846638892
+    second: electric_explosion_256x256px_2
+  - first:
+      213: -6951467238280717636
+    second: electric_explosion_256x256px_3
+  - first:
+      213: -4286160026239308057
+    second: electric_explosion_256x256px_4
+  - first:
+      213: 2373214615360381148
+    second: electric_explosion_256x256px_5
+  - first:
+      213: -3754666097347541986
+    second: electric_explosion_256x256px_6
+  - first:
+      213: 4163408130010740518
+    second: electric_explosion_256x256px_7
+  - first:
+      213: 85414934943820993
+    second: electric_explosion_256x256px_8
+  - first:
+      213: -6282194247564494250
+    second: electric_explosion_256x256px_9
+  - first:
+      213: -8508220525666695420
+    second: electric_explosion_256x256px_10
+  - first:
+      213: -582822683596067709
+    second: electric_explosion_256x256px_11
+  - first:
+      213: -2202606830617812599
+    second: electric_explosion_256x256px_12
+  - first:
+      213: 1372745698209567079
+    second: electric_explosion_256x256px_13
+  - first:
+      213: -743192113677839111
+    second: electric_explosion_256x256px_14
+  - first:
+      213: 2024257880033806896
+    second: electric_explosion_256x256px_15
+  - first:
+      213: -5344579411787281959
+    second: electric_explosion_256x256px_16
+  - first:
+      213: 7350534745248206823
+    second: electric_explosion_256x256px_17
+  - first:
+      213: 2693411573057495906
+    second: electric_explosion_256x256px_18
+  - first:
+      213: -6504300822464046312
+    second: electric_explosion_256x256px_19
+  - first:
+      213: -3287270012825105032
+    second: electric_explosion_256x256px_20
+  - first:
+      213: 3593978839457008264
+    second: electric_explosion_256x256px_21
+  - first:
+      213: -9171700410876113652
+    second: electric_explosion_256x256px_22
+  - first:
+      213: -7796074574667199882
+    second: electric_explosion_256x256px_23
+  - first:
+      213: 6884911319576710680
+    second: electric_explosion_256x256px_24
+  - first:
+      213: -8898980378600045947
+    second: electric_explosion_256x256px_25
+  - first:
+      213: 1855137323300772714
+    second: electric_explosion_256x256px_26
+  - first:
+      213: 6270778346597684840
+    second: electric_explosion_256x256px_27
+  - first:
+      213: -138664096916305964
+    second: electric_explosion_256x256px_28
+  - first:
+      213: 175183966360439886
+    second: electric_explosion_256x256px_29
+  - first:
+      213: -8113546410607687173
+    second: electric_explosion_256x256px_30
+  - first:
+      213: 6488788181151392227
+    second: electric_explosion_256x256px_31
+  - first:
+      213: -283150846473228351
+    second: electric_explosion_256x256px_32
+  - first:
+      213: 2864901289999831728
+    second: electric_explosion_256x256px_33
+  - first:
+      213: -1738074761027007512
+    second: electric_explosion_256x256px_34
+  - first:
+      213: -5323404427787154725
+    second: electric_explosion_256x256px_35
+  - first:
+      213: 5337552950643098854
+    second: electric_explosion_256x256px_36
+  - first:
+      213: -850952929734002948
+    second: electric_explosion_256x256px_37
+  - first:
+      213: -1094154129043977671
+    second: electric_explosion_256x256px_38
+  - first:
+      213: -5606959876434020539
+    second: electric_explosion_256x256px_39
+  - first:
+      213: -5520345056097198973
+    second: electric_explosion_256x256px_40
+  - first:
+      213: 8705237066344633571
+    second: electric_explosion_256x256px_41
+  - first:
+      213: 4091015526059562834
+    second: electric_explosion_256x256px_42
+  - first:
+      213: 6643561107580689202
+    second: electric_explosion_256x256px_43
+  - first:
+      213: 124530524332617407
+    second: electric_explosion_256x256px_44
+  - first:
+      213: 8626253337804672841
+    second: electric_explosion_256x256px_45
+  - first:
+      213: -7019060914018858078
+    second: electric_explosion_256x256px_46
+  - first:
+      213: -1098705378625859245
+    second: electric_explosion_256x256px_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad36e0304c5e7d40800000000000000
+      internalID: 5584002018754051493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef007c7f2ebf6f0800000000000000
+      internalID: -649676167401374136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f012e327f16540800000000000000
+      internalID: 4999548794846638892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba1382906d678f90800000000000000
+      internalID: -6951467238280717636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee6894a208484c0800000000000000
+      internalID: -4286160026239308057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0225c6e1a5fe020800000000000000
+      internalID: 2373214615360381148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14c569d31fb4ebc0800000000000000
+      internalID: -3754666097347541986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6277344b2a567c930800000000000000
+      internalID: 4163408130010740518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce6d74e647f2100800000000000000
+      internalID: 85414934943820993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a7ae7cd9921d8a0800000000000000
+      internalID: -6282194247564494250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40703f8a28abce980800000000000000
+      internalID: -8508220525666695420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c67317bd569e7f0800000000000000
+      internalID: -582822683596067709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9812d29e1c4ce61e0800000000000000
+      internalID: -2202606830617812599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611abc70f8fc0310800000000000000
+      internalID: 1372745698209567079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f45c50d5b6afa5f0800000000000000
+      internalID: -743192113677839111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a433121db971c10800000000000000
+      internalID: 2024257880033806896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d98d8e775d34d5b0800000000000000
+      internalID: -5344579411787281959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8fafe768520660800000000000000
+      internalID: 7350534745248206823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a40e2e8be06520800000000000000
+      internalID: 2693411573057495906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bdfbcfcd41cb5a0800000000000000
+      internalID: -6504300822464046312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d04cc07554162d0800000000000000
+      internalID: -3287270012825105032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0b1876b060e130800000000000000
+      internalID: 3593978839457008264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dcc6fe11397b080800000000000000
+      internalID: -9171700410876113652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac18eca77cec390800000000000000
+      internalID: -7796074574667199882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8f690e5e1c8f50800000000000000
+      internalID: 6884911319576710680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5828f569e78708480800000000000000
+      internalID: -8898980378600045947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b59ec0195ceb910800000000000000
+      internalID: 1855137323300772714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8669a26aea7460750800000000000000
+      internalID: 6270778346597684840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d704301dbd531ef0800000000000000
+      internalID: -138664096916305964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c0245a3e06e6200800000000000000
+      internalID: 175183966360439886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94517e684e66f80800000000000000
+      internalID: -8113546410607687173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e12840c87ecc0a50800000000000000
+      internalID: 6488788181151392227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfac1a2ecb021cf0800000000000000
+      internalID: -283150846473228351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b29ffa5b8c22c720800000000000000
+      internalID: 2864901289999831728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebc9eba63e11e7e0800000000000000
+      internalID: -1738074761027007512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda4106a0e77f16b0800000000000000
+      internalID: -5323404427787154725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e48be8012cc21a40800000000000000
+      internalID: 5337552950643098854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf670a6a1dec034f0800000000000000
+      internalID: -850952929734002948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8ec0ed98c0d0f0800000000000000
+      internalID: -1094154129043977671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547384703b31032b0800000000000000
+      internalID: -5606959876434020539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c1eb56b6bc363b0800000000000000
+      internalID: -5520345056097198973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e419015df63fc870800000000000000
+      internalID: 8705237066344633571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257536122f436c830800000000000000
+      internalID: 4091015526059562834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b92f4d0aba23c50800000000000000
+      internalID: 6643561107580689202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee9822adb6ab100800000000000000
+      internalID: 124530524332617407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f0066f4bb96b770800000000000000
+      internalID: 8626253337804672841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc31b8949479e90800000000000000
+      internalID: -7019060914018858078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_explosion_256x256px_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d132874d90c0f0800000000000000
+      internalID: -1098705378625859245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
