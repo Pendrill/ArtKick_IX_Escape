@@ -147,7 +147,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if(isPlayer1)
         {
-            if (Input.GetKeyDown(KeyCode.E) && shootingEnabled)
+            if (Input.GetKeyDown(KeyCode.LeftShift) && shootingEnabled)
             {
                 shootingEnabled = false;
                 audioSource.PlayOneShot(audio[0]);
@@ -156,7 +156,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-            if (Input.GetKeyDown(KeyCode.RightShift) && shootingEnabled)
+            if (Input.GetKeyDown(KeyCode.Space) && shootingEnabled)
             {
                 shootingEnabled = false;
                 audioSource.PlayOneShot(audio[0]);
